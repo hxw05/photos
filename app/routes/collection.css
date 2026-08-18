@@ -1,0 +1,12 @@
+@reference 'tailwindcss';
+
+.lightbox-custom-button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.lightbox-custom-button svg {
+	width: 16px;
+	height: 16px;
+}
